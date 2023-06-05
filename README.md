@@ -1,1 +1,1 @@
-# Healthcare-Website This Healthcare Website is made using HTML,CSS,Javascript,Bootstra
+# Healthcare-Website This Healthcare Website is made using HTML,CSS,Javascript,Bootstrap
